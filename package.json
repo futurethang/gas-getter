@@ -1,0 +1,17 @@
+{
+  "name": "gas-getter",
+  "version": "1.0.0",
+  "description": "simple retrieval for current Eth gas fees",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Hyde",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^5.0.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
